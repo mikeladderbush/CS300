@@ -1,8 +1,1 @@
-This is a compilation of multiple assignments from a CS class.
-There are C++ files for loading from csv and searching through elements using the following data structures:
-Vector
-Linked List
-Hash Table
-Binary Tree
-
-I didn't write the general framework, just added updates to various functions in order for the code to compile and run correctly.
+In the course focused on data structures, the projects tackled various complex issues, emphasizing efficient data processing and optimization. I approached these challenges by carefully understanding the requirements and selecting suitable data structures to improve both time and space efficiency. The key learning was that data structures are crucial tools for organizing and manipulating data effectively. Overcoming obstacles involved collaboration, discussions with peers, seeking guidance, and revisiting core concepts. This experience broadened my software design perspective, encouraging me to consider scalability and modularity. As a result, my programming style has shifted towards prioritizing clean, well-documented code for better maintainability and adaptability, making programs more understandable and easy to modify.
